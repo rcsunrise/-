@@ -32,6 +32,25 @@
 <img width="1584" height="672" alt="ComfyUI_00324_" src="https://github.com/user-attachments/assets/8dd1b5f8-647b-4491-82c9-85df437cc5eb" />
 <img width="2784" height="1536" alt="ComfyUI_00332_" src="https://github.com/user-attachments/assets/62298a73-1b32-42f7-922f-74568ae5964d" />
 
+元素清晰优化：LOGO放大对齐
+<img width="1178" height="697" alt="image" src="https://github.com/user-attachments/assets/59843aa5-97e9-4539-afda-16fd52b4cfed" />
+<img width="1215" height="700" alt="image" src="https://github.com/user-attachments/assets/f0c94bd4-28cf-4f00-abb7-5edb64df5862" />
+<img width="1867" height="1017" alt="image" src="https://github.com/user-attachments/assets/2f657da3-a900-4bb3-a321-464002e7b4ac" />
+
+元素清晰优化：飞机轮廓清晰化
+<img width="1939" height="1552" alt="image" src="https://github.com/user-attachments/assets/bd5a29eb-4ae3-40da-89ae-34982c09464f" />
+<img width="1785" height="899" alt="image" src="https://github.com/user-attachments/assets/3be2178f-8327-4db8-b198-e1354c2b1c38" />
+<img width="1951" height="1549" alt="image" src="https://github.com/user-attachments/assets/8525a0af-e9c0-490f-b525-f2c6f8f62823" />
+
+<img width="1972" height="936" alt="image" src="https://github.com/user-attachments/assets/c0f7ed23-8f38-45c7-ad7c-93aabe353b1e" />
+
+<img width="1954" height="907" alt="image" src="https://github.com/user-attachments/assets/9d459671-aec6-48be-8da0-64edad2c6b4a" />
+
+<img width="2115" height="1206" alt="image" src="https://github.com/user-attachments/assets/d468171d-40f5-4001-b263-ecbece01ad36" />
+
+
+
+
      侧面元素替换
   原图区域替换：PS截取局部位置，图层添加智能图层，利用gemini输出尺寸一致性完美替换
   
