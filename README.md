@@ -1,3 +1,8 @@
+
+<img width="3479" height="1618" alt="image" src="https://github.com/user-attachments/assets/29002a86-43bf-41f1-90da-431138fc02de" />
+<img width="3473" height="1615" alt="image" src="https://github.com/user-attachments/assets/3bf797f2-6965-48e1-a4e4-7bfad00604be" />
+<img width="3460" height="1838" alt="image" src="https://github.com/user-attachments/assets/5d794ea6-56e6-4413-a17c-00d1b8555077" />
+
 出口展会展厅建筑立面设计
 概念设计 阶段：
 
@@ -70,6 +75,31 @@
 <img width="1682" height="698" alt="image" src="https://github.com/user-attachments/assets/797978e2-e596-4b6c-b926-322d69b4a9af" />
 <img width="1295" height="789" alt="image" src="https://github.com/user-attachments/assets/5b61c5a6-ab24-4901-b20b-9db3fbea3c6f" />
 <img width="3018" height="1617" alt="image" src="https://github.com/user-attachments/assets/2fb88ac3-893b-4427-9bbe-b312e1bbe642" />
+
+<img width="1312" height="440" alt="企业微信截图_17690517542840" src="https://github.com/user-attachments/assets/86ab72e0-faa2-455b-9dd7-561edf17d971" />
+<img width="1246" height="370" alt="企业微信截图_17690519804269" src="https://github.com/user-attachments/assets/3c7c8d84-bf6b-4269-b543-2c05a96897d6" />
+
+1.删除灯光 ：画面灯光调整，删除画面横向的线性灯光，其他保持不变
+<img width="1758" height="904" alt="image" src="https://github.com/user-attachments/assets/d9465398-76ac-48b3-b874-d85c63e24540" />
+<img width="2904" height="1452" alt="image" src="https://github.com/user-attachments/assets/ffcbe223-05ce-429a-810f-5ed6eb0e0fd1" />
+
+<img width="1980" height="1174" alt="image" src="https://github.com/user-attachments/assets/68e8ee43-f79d-4208-bc80-cd9915ed5fec" />
+<img width="3539" height="1632" alt="image" src="https://github.com/user-attachments/assets/4d3019d9-c8ee-4d34-91e4-b450754bdbfe" />
+<img width="2816" height="1504" alt="nano_banana_pro_00011_" src="https://github.com/user-attachments/assets/6892868a-6659-42b5-8a19-ab3b3a245a4c" />
+2.更改背景墙：把展厅入口客厅沙发旁的主KV海报，更换成活页装置，活页装置主视觉元素参考窗口1的飞机logo，飞机的画面色彩可以是多色彩构成，构思成独特的视觉焦点。其他画面保持不变
+<img width="973" height="966" alt="图层 10" src="https://github.com/user-attachments/assets/92b4d6db-9039-4a30-b27b-045bff411ef2" />
+<img width="973" height="966" alt="图层 10logo" src="https://github.com/user-attachments/assets/a73f5947-dccc-48ef-ac94-168f271e9c5f" />
+
+Photorealistic architectural visualization of a high-end showroom entrance. The large wall poster is replaced by a sophisticated kinetic split-flap art installation. The installation displays a large, stylized airplane logo inspired by a minimalist geometric icon. The airplane graphic is rendered in a mosaic of low-saturation, multi-colored tiles featuring muted tones of sage green, dusty rose, slate blue, and warm gray, creating a unique visual focal point. In front of the wall sits the original cream-colored modular leather sofa, bathed in warm dappled light from the textured ceiling. The minimalist black side table with a small globe lamp remains in the foreground. The scene maintains the original perspective and lighting, emphasizing the mechanical texture of the flip-page device against the soft, luxurious interior. High-resolution, cinematic lighting, 8k, sophisticated materiality.
+<img width="1731" height="1461" alt="image" src="https://github.com/user-attachments/assets/26dc7195-2f56-4db9-a180-3456fff1726c" />
+![yingjia-edited-1769129916969](https://github.com/user-attachments/assets/e00035af-6a21-442d-b526-42dc92c9d83d)
+
+![yingjia-edited-1769136809422](https://github.com/user-attachments/assets/07a9a8ee-d965-4668-9d43-f711c4895d7e)
+
+3.星空顶软膜改大自然光软膜：把展厅入口森林灯膜，更换成柔和自然光的灯膜，清除沙发上的光斑，清晰画面，其他保持不变
+<img width="1621" height="1298" alt="image" src="https://github.com/user-attachments/assets/4b302538-474c-419e-956b-235949012fba" />
+
+<img width="2316" height="2316" alt="图层 14" src="https://github.com/user-attachments/assets/9bef65da-0eee-4306-9f7c-9f04f90471b2" />
 
 
 
